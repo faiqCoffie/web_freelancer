@@ -1,4 +1,4 @@
-# Firebase Studio - NextJS Starter (Freelance Platform)
+# Faiq - NextJS Starter (Freelance Platform)
 
 This is a NextJS starter project, adapted into a freelance platform concept.
 
